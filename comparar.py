@@ -1,4 +1,4 @@
-# Arquivo: comparar.py - um esqueleto, quatro algoritmos.
+# Arquivo: comparar.py
 from mapa import mapa_romenia, heuristica_bucareste
 
 h = heuristica_bucareste
